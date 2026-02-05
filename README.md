@@ -7,8 +7,7 @@ mechanical design, electronics, programming, and performance optimization to mee
 
 The robot had to comply with the following constraints:  
 - Maximum dimensions: 18" x 18" x 18"  
-- Weight limit: 15 lbs 
-- Power supply: 7.2V battery with 2000 mAh capacity  
+- Weight limit: 10 lbs   
 - Task-specific design: must collect, lift, and deposit game pieces within a timed challenge  
 
 The team placed 1st in the competition due to effective collaboration, iterative design improvements, and optimized autonomous performance.
